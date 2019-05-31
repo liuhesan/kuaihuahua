@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://kuaijie.2xtqm.cn/assets/imgs/logo57.png</string>
+					<string>http://serv.weidab.com/kuaijie/logo57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://kuaijie.2xtqm.cn/assets/imgs/logo512.png</string>
+					<string>http://serv.weidab.com/kuaijie/logo512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
